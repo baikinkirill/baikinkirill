@@ -1,10 +1,8 @@
-<h1 align="center">Hi there, I'm <a href="https://t.me/baikinkirill" target="_blank">Kirill</a> 
-  <img src="./img/header2.png" /></h1>
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<img src="./img/header2.png" /></h1>
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Frontend+developer;Student+from+Russia"/></div>
 
 <div align="center">&nbsp;&nbsp;<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baikinkirill&theme=solarized_dark"/></div><div align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=baikinkirill&theme=solarized_dark"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=baikinkirill&theme=solarized_dark"/></div>
-<div align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=baikinkirill&theme=solarized_dark"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=baikinkirill&theme=solarized_dark"/></div>  
+<div align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=baikinkirill&theme=solarized_dark&utcOffset=3"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=baikinkirill&theme=solarized_dark"/></div>  
 
 <h3>Main stack</h3>
 <p><img alt="ReactJS" width="50px" src="/img/img.png"/>&nbsp;<img alt="NextJS" width="50px" src="/img/img_1.png"/>&nbsp;<img alt="TypeScript" width="50px" src="/img/img_2.png"/>&nbsp;<img alt="NodeJS" width="50px" src="/img/img_3.png"/>&nbsp;<img alt="WebStorm" width="50px" src="/img/img_4.png"/></p>
