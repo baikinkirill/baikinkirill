@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="https://t.me/baikinkirill" target="_blank">Kirill</a> 
-  <img src="./img/header.png" /></h1>
+  <img src="./img/header2.png" /></h1>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Frontend+developer;Student+from+Russia"/></div>
 
