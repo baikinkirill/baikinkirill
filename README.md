@@ -1,4 +1,4 @@
-<img src="./img/header2.png" /></h1>
+<img src="./img/header.png" /></h1>
 
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Frontend+developer;Student+from+Russia"/></div>
 
@@ -11,7 +11,9 @@
 <p><img alt="ReactJS" width="50px" src="/img/img.png"/>&nbsp;<img alt="NextJS" width="50px" src="/img/img_1.png"/>&nbsp;<img alt="TypeScript" width="50px" src="/img/img_2.png"/>&nbsp;<img alt="NodeJS" width="50px" src="/img/img_3.png"/>&nbsp;<img alt="WebStorm" width="50px" src="/img/img_4.png"/></p>
 
 <h3>Languages and Tools</h3>
+
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) 
+
 <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> 
 <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> 
 </a> 
