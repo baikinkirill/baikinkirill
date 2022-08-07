@@ -39,5 +39,13 @@
 
 <hr/>
 
+<h3>Contacts</h3>
+
+<a href="https://github.com/baikinkirill"><img src="https://img.shields.io/badge/Github-red?logo=Github&logoColor=white&style=for-the-badge" alt="Github Badge"/></a>
+<a href="https://t.me/baikinkirill"><img src="https://img.shields.io/badge/Telegram-8cf?logo=Telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/></a>
+<a href="https://vk.com/baikinkirill"><img src="https://img.shields.io/badge/vk-blue?logo=VK&logoColor=white&style=for-the-badge" alt="VK Badge"/></a>
+
+<hr/>
+
 ![](https://komarev.com/ghpvc/?username=baikinkirill)
 ![GitHub followers](https://img.shields.io/github/followers/baikinkirill?style=social)
