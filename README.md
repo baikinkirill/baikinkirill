@@ -49,3 +49,7 @@
 
 ![](https://komarev.com/ghpvc/?username=baikinkirill)
 ![GitHub followers](https://img.shields.io/github/followers/baikinkirill?style=social)
+
+<hr/>
+
+Остальные проекты в [@kiruxa-projects](https://github.com/kiruxa-projects)
