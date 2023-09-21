@@ -43,7 +43,7 @@
 
 <a href="https://github.com/baikinkirill"><img src="https://img.shields.io/badge/Github-red?logo=Github&logoColor=white&style=for-the-badge" alt="Github Badge"/></a>
 <a href="https://t.me/baikinkirill"><img src="https://img.shields.io/badge/Telegram-8cf?logo=Telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/></a>
-<a href="https://vk.com/baikinkirill"><img src="https://img.shields.io/badge/vk-blue?logo=VK&logoColor=white&style=for-the-badge" alt="VK Badge"/></a>
+<a href="https://instagram.com/baikinkirill"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
 
 <hr/>
 
