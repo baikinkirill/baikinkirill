@@ -1,10 +1,5 @@
 <img src="./img/header.png" /></h1>
 
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Frontend+developer+at+Yandex;Student+from+Russia"/></div>
-
-<div align="center">&nbsp;&nbsp;<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baikinkirill&theme=solarized_dark"/></div><div align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=baikinkirill&theme=solarized_dark"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=baikinkirill&theme=solarized_dark"/></div>
-<div align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=baikinkirill&theme=solarized_dark&utcOffset=3"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=baikinkirill&theme=solarized_dark"/></div>
-
 <hr/>
 
 <h3>Main stack</h3>
